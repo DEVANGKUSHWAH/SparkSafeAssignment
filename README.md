@@ -51,9 +51,11 @@ I selected **Option 1: Home Hardening Guide & Marketplace** over the Wildfire Ed
 
 The marketplace approach transforms SparkSafe from an informational platform into an **actionable solution** that guides users from uncertainty to protection while creating sustainable business value.
 
-## 🚀 Live Demo
+## 🚀 Live Demo and Video
 
-[View Live Demo](https://your-vercel-url.vercel.app) *(Deploy to Vercel and update this link)*
+[View Live Demo](https://spark-safe-assignment.vercel.app/) 
+[View Video](https://drive.google.com/file/d/1VjuV6TkmzCkLb510lz935xubmv2i-oI8/view?usp=sharing) *(Video of project - Screen Recording)*
+
 
 ## 🛠️ Tech Stack
 
