@@ -53,7 +53,7 @@ The marketplace approach transforms SparkSafe from an informational platform int
 
 ## 🚀 Live Demo and Video
 
-[View Live Demo](https://spark-safe-assignment.vercel.app/) 
+[View Live Demo](https://spark-safe-assignment.vercel.app/) *(Vercel live)*
 [View Video](https://drive.google.com/file/d/1VjuV6TkmzCkLb510lz935xubmv2i-oI8/view?usp=sharing) *(Video of project - Screen Recording)*
 
 
